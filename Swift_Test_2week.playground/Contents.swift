@@ -200,7 +200,9 @@ print(addTwoNumber(3, 7))
 // 인접 제어문을 반환하고 종료시키고 싶을때 사용한다
 
 
-// 5. git pull 
+// 5. git pull
+
+// 6. git pull 받아서 코드 수정
 
 
 
